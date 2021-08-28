@@ -1,3 +1,5 @@
 # Share_With_Me
-it is social media app that allow users to post interesting events that happened in life
-They can perform All CURD operations here
+using React, Node.js, Express & MonogoDB. This App is a simple platform that allows users to post anything
+interesting events that happened in their lives.
+You can perform CRUD operations in your post. 
+You can also get some likes from users.
